@@ -30,7 +30,7 @@ This project implements a book recommender system using collaborative filtering.
 2. Run the Streamlit app using the command `streamlit run book_recommendation_app.py`.
 
 ## Files and Artifacts
-- `book_recommendation.ipynb`: Jupyter Notebook containing the collaborative filtering and model saving logic.
+- `Book Recommendation - Collabrative Approach.ipynb`: Jupyter Notebook containing the collaborative filtering and model saving logic.
 - `book_recommendation_app.py`: Streamlit app for user interaction.
 - `artifacts/model.pkl`: Pickle file containing the saved collaborative filtering model.
 - `artifacts/book_names.pkl`, `artifacts/final_rating.pkl`, `artifacts/book_pivot.pkl`: Additional model-related artifacts.
